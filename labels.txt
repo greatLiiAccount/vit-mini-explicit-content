@@ -1,0 +1,8 @@
+# Updated label mapping
+labels = {
+    "0": "Anime Picture",
+    "1": "Enticing & Sensual",
+    "2": "Hentai",
+    "3": "Pornography",
+    "4": "Safe for Work"
+}
